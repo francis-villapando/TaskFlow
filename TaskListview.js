@@ -1,4 +1,4 @@
-// Zarsuela, John Daryl
+// Zarsuela. John Daryl
 
 import React from "react";
 import { Table, Button } from "react-bootstrap";
