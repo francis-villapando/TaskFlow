@@ -1,3 +1,5 @@
+// Zarsuela, John Daryl
+
 import React from "react";
 import { Table, Button } from "react-bootstrap";
 
@@ -40,5 +42,3 @@ function TaskListView({ tasks, deleteTask }) {
 }
 
 export default TaskListView;
-
-// Zarsuela
